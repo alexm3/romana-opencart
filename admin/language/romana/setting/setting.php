@@ -36,7 +36,7 @@ $_['entry_country']             = 'Țara:';
 $_['entry_zone']                = 'Regiune / Judet:';
 $_['entry_language']            = 'Limba:';
 $_['entry_admin_language']      = 'Limba Panou Administrare:';
-$_['entry_currency']            = 'Moneda:<br /><span class="help">Schimbați moneda implicită. Stergeți memoria Cache a brwserului pentru a vedea modificarea si resetați cookie-urile existente.</span>';
+$_['entry_currency']            = 'Moneda:<br /><span class="help">Schimbați moneda implicită. Stergeți memoria Cache a browserului pentru a vedea modificarea si resetați cookie-urile existente.</span>';
 $_['entry_currency_auto']       = 'Updatare automată a Monedei:<br /><span class="help">Setaza magazinul in așa fel încat sa updateze in mod automat monedele, zilnic.</span>';
 $_['entry_length_class']        = 'Clasa Lungimii:';
 $_['entry_weight_class']        = 'Clasa Greutății:';
