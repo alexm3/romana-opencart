@@ -66,4 +66,3 @@ $_['error_upload_6']        = 'Atenţie: Lipseste un director temporar!';
 $_['error_upload_7']        = 'Atenţie: Fisierul nu poate fii scris pe mediul de stocare!';
 $_['error_upload_8']        = 'Atenţie: Uploadarea fisierului oprita de extesnie!';
 $_['error_upload_999']      = 'Atenţie: Niciun cod de eroare disponibil!';
-?>

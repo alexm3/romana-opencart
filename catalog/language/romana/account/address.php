@@ -1,38 +1,38 @@
 <?php
-// Heading 
-$_['heading_title']     = 'Carte Adrese';
+// Titlu 
+$_['heading_title']     = 'Adresele tale';
 
 // Text
 $_['text_account']      = 'Cont';
-$_['text_address_book'] = 'Intrari Carte Adrese';
-$_['text_edit_address'] = 'Editeaza Adresa';
-$_['text_insert']       = 'Adresa ta a fost adaugata cu succes';
-$_['text_update']       = 'Adresa ta a fost updatata cu succes';
-$_['text_delete']       = 'Adresa ta a fost stearsa cu succes';
+$_['text_address_book'] = 'Adrese înregistrate';
+$_['text_edit_address'] = 'Editează adresa';
+$_['text_add']          = 'Adresa a fost adaugată';
+$_['text_edit']         = 'Adresa a fost actualizată';
+$_['text_delete']       = 'Adresa a fost stearsă';
+$_['text_empty']        = 'Nu ai nicio adresă înregistrată in contul tău.';
 
-// Entry
-$_['entry_firstname']   = 'Nume:';
-$_['entry_lastname']    = 'Prenume:';
-$_['entry_company']        = 'Date Companie:';
-$_['entry_company_id']     = 'Codul Unic de Inregistrare al Companiei:';
-$_['entry_tax_id']         = 'Cod TVA:';
-$_['entry_address_1']   = 'Adresa 1:';
-$_['entry_address_2']   = 'Adresa 2:';
-$_['entry_postcode']    = 'Cod Postal:';
-$_['entry_city']        = 'Oras, Comuna/Sat:';
-$_['entry_country']     = 'Tara:';
-$_['entry_zone']        = 'Judetul:';
-$_['entry_default']     = 'Adresa Implicita:';
+// Intrari
+$_['entry_firstname']   = 'Prenume';
+$_['entry_lastname']    = 'Nume';
+$_['entry_company']     = 'Date Firmă';
+$_['entry_address_1']   = 'Adresa 1';
+$_['entry_address_2']   = 'Adresa 2';
+$_['entry_postcode']    = 'Cod poştal:';
+$_['entry_city']        = 'Oraş / Comună';
+$_['entry_country']     = 'Ţară';
+$_['entry_zone']        = 'Judeţ';
+$_['entry_default']     = 'Adresa implicită';
 
-// Error
-$_['error_delete']      = 'Eroare: Trebuie sa ai cel putin o adresa:!';
-$_['error_default']     = 'Eroare: Nu poti sterge adresa obijnuita!';
-$_['error_firstname']   = 'Numele trebuie sa contina intre 1 si 32 caractere!';
-$_['error_lastname']    = 'Prenumele trebuie sa contina intre 1 si 32 caractere!';
-$_['error_vat']            = 'Codul TVA obligatoriu!';
-$_['error_address_1']   = 'Adresa trebuie sa contina intre 3 si 128 caractere!';
-$_['error_postcode']    = 'Codul Postal trebuie sa contina intre 2 si 10 caractere!';
-$_['error_city']        = 'Orasul trebuie sa contina intre 3 si 128 caractere!';
-$_['error_country']     = 'Te rugam sa selectezi o tara!';
-$_['error_zone']        = 'Te rugam sa selectezi un judet!';
-?>
+
+
+// Erori
+$_['error_delete']      = 'Eroare: Trebuie să ai cel puţin o adresă:!';
+$_['error_default']     = 'Eroare: Nu poţi şterge adresa implicită!';
+$_['error_firstname']   = 'Prenumele trebuie să conţină între 1 şi 32 caractere!';
+$_['error_lastname']    = 'Numele trebuie să conţină între 1 şi 32 caractere!';
+$_['error_vat']         = 'Cod TVA invalid!';
+$_['error_address_1']   = 'Adresa trebuie să conţină între 3 şi 128 caractere!';
+$_['error_postcode']    = 'Codul Postal trebuie să conţină între 2 şi 10 caractere!';
+$_['error_city']        = 'Oraşul trebuie să conţină între 3 şi 128 caractere!';
+$_['error_country']     = 'Te rugăm să selectezi o ţara!';
+$_['error_zone']        = 'Te rugăm să selectezi un judeţ!';
