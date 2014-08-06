@@ -1,22 +1,21 @@
 <?php
-// Heading 
-$_['heading_title']                = 'Logare Cont';
+// Titlu
+$_['heading_title']                = 'Autentificare cont';
 
 // Text
 $_['text_account']                 = 'Cont';
-$_['text_login']                   = 'Logare';
-$_['text_new_customer']            = 'Client Nou';
-$_['text_register']                = 'Inregistrează Cont';
-$_['text_register_account']        = 'Prin creearea unui cont vei putea face cumpărături mai rapid, vei fi pus la curent cu comenzile, si vei tine evidenţa comenziilor efectuate de tine. In plus beneficiezi de puncte de fidelitate';
-$_['text_returning_customer']      = 'Client existent';
+$_['text_login']                   = 'Autentificare';
+$_['text_new_customer']            = 'Sunt client nou';
+$_['text_register']                = 'Înregistrează un cont nou';
+$_['text_register_account']        = 'Prin creearea unui cont vei putea face cumpărăturile mai rapid, vei fi la curent cu statusurile comenzilor tale, şi vei ţine evidenţa comenzilor efectuate de tine. În plus beneficiezi şi de puncte de recompensă';
+$_['text_returning_customer']      = 'Sunt deja client';
 $_['text_i_am_returning_customer'] = 'Am cont deja';
-$_['text_forgotten']               = 'Parola Uitata';
+$_['text_forgotten']               = 'Am uitat parola';
 
-// Entry
-$_['entry_email']                  = 'Adresa E-Mail:';
-$_['entry_password']               = 'Parola:';
+// Intrări
+$_['entry_email']                  = 'Adresa E-Mail';
+$_['entry_password']               = 'Parola';
 
-// Error
-$_['error_login']                  = 'Eroare: Nici o potrivire pentru e-mail si/sau Parola.';
-$_['error_approved']               = 'Eroare: Contul tau trebuie activat ca sa te poti autentifica .';
-?>
+// Erori
+$_['error_login']                  = 'Eroare: Datele de autentificare sunt greşite!';
+$_['error_approved']               = 'Eroare: Contul tău trebuie activat de către administrator ca sa te poţi autentifica .';

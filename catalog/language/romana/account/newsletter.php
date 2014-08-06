@@ -1,12 +1,11 @@
 <?php
-// Heading 
-$_['heading_title']    = 'Inscrie-te la Newsletter';
+// Titlu 
+$_['heading_title']    = 'Înscrie-te la Newsletter';
 
 // Text
 $_['text_account']     = 'Cont';
 $_['text_newsletter']  = 'Newsletter';
-$_['text_success']     = 'Succes: Inscrierea ta la Newsletter a fost realizată cu succes!';
+$_['text_success']     = 'Succes: Înscrierea ta a fost realizată cu succes!';
 
-// Entry
-$_['entry_newsletter'] = 'Inscriere:';
-?>
+// Intrări
+$_['entry_newsletter'] = 'Înscriere';
