@@ -1,15 +1,14 @@
 <?php
-// Heading 
-$_['heading_title']      = 'Puncte Recompensă';
+// Titlu
+$_['heading_title']      = 'Puncte de recompensă';
 
-// Column
-$_['column_date_added']  = 'Data';
-$_['column_description'] = 'Descrierea';
+// Coloane
+$_['column_date_added']  = 'Data adăugării';
+$_['column_description'] = 'Descriere';
 $_['column_points']      = 'Puncte';
 
 // Text
 $_['text_account']       = 'Cont';
-$_['text_reward']        = 'Puncte Recompensă';
+$_['text_reward']        = 'Puncte de recompensă';
 $_['text_total']         = 'Numărul total de puncte de recompensă este:';
-$_['text_empty']         = 'Nu aveţi nici un punct de recompensă!';
-?>
+$_['text_empty']         = 'Nu aveţi niciun punct de recompensă!';

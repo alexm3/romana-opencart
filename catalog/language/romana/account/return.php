@@ -1,63 +1,64 @@
 <?php
-// Heading 
-$_['heading_title']      = 'Returnare Produse';
+// Titlu 
+$_['heading_title']      = 'Returnări';
 
 // Text
 $_['text_account']       = 'Cont';
-$_['text_return']        = 'Informaţii Returnare';
-$_['text_return_detail'] = 'Detalii Returnare';
-$_['text_description']   = '<p>Daca aveţi o problemă cu un produs, care nu a fost rezolvată de catre Departamentul Tehnic sau de Departamentul Vanzări, aţi putea fi capabil de a returna produsul la noi. Primul pas este de a completa acest formular Returnări.</p><p>Acest formular trebuie sa fie completat în întregime, si vă vom raspunde prin e-mail în termen de 3 zile lucratoare, cu instructiuni de returnare.</p><p>Produsele trebuie sa fie returnate în ambalajul original sau echivalent. Noi nu vom credita produsele care sunt deteriorate din cauza ambalajelor insuficiente. Vă rugăm sa folosiţi o cutie de protectie pentru a preveni deteriorarea în timpul tranzitului. Produsele alimentare si băuturile nu sunt returnabile.</p>';
-$_['text_order']         = 'Informaţii Comanda';
-$_['text_product']       = 'Informaţii Produs &amp; Motivul Returnări';
-$_['text_message']       = '<p>Cererea dvs. de returnare a fost trimisă cu succes la proprietarul magazinului!</p><p>Veţi fi contactat în urmatoarele 24 de ore cu instrucţiunile despre ce să faceţi in continuare.';
-$_['text_return_id']     = 'ID Returnare:';
-$_['text_order_id']      = 'ID Comandă:';
-$_['text_date_ordered']  = 'Data Comandă:';
-$_['text_status']        = 'Status:';
-$_['text_date_added']    = 'Data Adăugări:';
-$_['text_customer']      = 'Client:';
-$_['text_comment']       = 'Comentari de Returnare';
-$_['text_history']       = 'Istoric Returnare';
-$_['text_empty']         = 'Nu ai făcut nici o returnare anterioară!';
-$_['text_agree']         = 'Am citit si acceptat <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
+$_['text_return']        = 'Informaţii returnare';
+$_['text_return_detail'] = 'Detalii returnare';
+$_['text_description']   = '<p>Dacă aveţi o problemă cu un produs comandat de la noi, care nu a fost rezolvată de către Departamentul Tehnic sau de către Departamentul Vanzări, aveți posibilitatea de a returna produsul. Primul pas este completarea acestui formular de returnare.</p><p>Acest formular trebuie să fie completat în întregime, și vă vom răspunde prin e-mail sau telefon în termen de 3 zile lucrătoare cu instrucțiunile de returnare.</p>';
+$_['text_order']         = 'Informaţii despre comandă';
+$_['text_product']       = 'Informaţii despre produs și motivul de returnare';
+$_['text_message']       = '<p>Cererea de returnare a fost trimisă cu succes spre administratorul magazinului!</p><p>Veţi fi contactat în următoarele 3 zile lucrătoare cu instrucţiuni de returnare.';
+$_['text_return_id']     = 'Numărul returnării:';
+$_['text_order_id']      = 'Numărul comenzii:';
+$_['text_date_ordered']  = 'Data comenzii:';
+$_['text_status']        = 'Statusul:';
+$_['text_date_added']    = 'Data adăugării:';
+$_['text_comment']       = 'Comentariu';
+$_['text_history']       = 'Istoricul returnării';
+$_['text_empty']         = 'Nu ai făcut nicio returnare anterioară!';
+$_['text_agree']         = 'Am citit și sunt de acord cu <a href="%s" aclass="agree"><b>%s</b></a>';
 
-// Column
-$_['column_product']     = 'Nume Produs';
-$_['column_model']       = 'Model';
+// Coloane
+$_['column_return_id']   = 'Numărul returnării';
+$_['column_order_id']    = 'Numărul comenzii';
+$_['column_status']      = 'Statusul';
+$_['column_date_added']  = 'Data adăugării';
+$_['column_customer']    = 'Clientul';
+$_['column_product']     = 'Numele produsului';
+$_['column_model']       = 'Codul produsului';
 $_['column_quantity']    = 'Cantitatea';
-$_['column_price']       = 'Preţ';
+$_['column_price']       = 'Preţul';
 $_['column_opened']      = 'Deschis';
 $_['column_comment']     = 'Comentariu';
-$_['column_reason']      = 'Motiv';
+$_['column_reason']      = 'Motivul';
 $_['column_action']      = 'Acţiune';
-$_['column_date_added']  = 'Data';
-$_['column_status']      = 'Status';
 
-// Entry
-$_['entry_order_id']     = 'ID Comandă:';
-$_['entry_date_ordered'] = 'Data Comandă:';
-$_['entry_firstname']    = 'Nume:';
-$_['entry_lastname']     = 'Prenume:';
+// Intrări
+$_['entry_order_id']     = 'Numărul comenzii:';
+$_['entry_date_ordered'] = 'Data comenzii:';
+$_['entry_firstname']    = 'Prenume:';
+$_['entry_lastname']     = 'Nume:';
 $_['entry_email']        = 'E-Mail:';
 $_['entry_telephone']    = 'Telefon:';
-$_['entry_product']      = 'Nume Produs:';
-$_['entry_model']        = 'Cod Produs:';
-$_['entry_quantity']     = 'Cantitate:';
-$_['entry_reason']       = 'Motivul Returnări:';
-$_['entry_opened']       = 'Produsul este Deschis:';
+$_['entry_product']      = 'Numele produsului:';
+$_['entry_model']        = 'Codul produsului:';
+$_['entry_quantity']     = 'Cantitatea:';
+$_['entry_reason']       = 'Motivul returnării:';
+$_['entry_opened']       = 'Produsul este deschis:';
 $_['entry_fault_detail'] = 'Defecte sau alte Detalii:';
-$_['entry_captcha']      = 'Introdu codul in căsuţa urmatoare:';
+$_['entry_captcha']      = 'Introdu codul în căsuţa următoare:';
 
-// Error
-$_['text_error']         = 'Returnarea cerută nu a fost gasită!';
-$_['error_order_id']     = 'ID Comanda este necesară!';
-$_['error_firstname']    = 'Numele trebuie sa fie intre 1 si 32 caractere!';
-$_['error_lastname']     = 'Prenumele trebuie sa fie intre 1 si 32 caractere!';
-$_['error_email']        = 'Adresa de e-mail nu pare sa fie validă!';
-$_['error_telephone']    = 'Numarul de telefon trebuie sa fie intre 7 si 32 caractere!';
-$_['error_product']      = 'Trebuie sa selectezi cel putin un produs!';
-$_['error_name']         = 'Numele produsului trebuie sa fie mai mare de 3 si mai mic de 255 caractere!';
-$_['error_model']        = 'Modelul produsului trebuie sa fie mai mare de 3 si mai mic de 64 caractere!';
-$_['error_reason']       = 'Trebuie sa selectezi un motiv de returnare a produselor!';
-$_['error_captcha']      = 'Codul de verificare nu se potriveste cu cel din imagine!';
-?>
+// Erori
+$_['text_error']         = 'Returnarea cerută nu a fost găsită!';
+$_['error_order_id']     = 'Numărul comenzii este necesar!';
+$_['error_firstname']    = 'Prenumele trebuie să conțină între 1 și 32 de caractere!';
+$_['error_lastname']     = 'Numele trebuie să conțină între 1 și 32 de caractere!';
+$_['error_email']        = 'Adresa de e-mail nu este validă!';
+$_['error_telephone']    = 'Numarul de telefon trebuie să conțină între 7 și 32 de caractere!';
+$_['error_product']      = 'Trebuie să selectezi cel puțin un produs!';
+$_['error_model']        = 'Codul produsului trebuie să conțină între 3 și 64 de caractere!';
+$_['error_reason']       = 'Trebuie să selectezi un motiv de returnare!';
+$_['error_captcha']      = 'Codul de verificare nu se potrivește cu cel din imagine!';
+$_['error_agree']        = 'Eroare: Trebuie să fii de acord cu %s!';
