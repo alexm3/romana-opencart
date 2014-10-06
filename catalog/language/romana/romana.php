@@ -46,6 +46,7 @@ $_['button_return']         = 'Returnare';
 $_['button_shopping']       = 'Continuă cumpărăturile';
 $_['button_search']         = 'Căutare';
 $_['button_shipping']       = 'Aplică metoda de livrare';
+$_['button_submit']         = 'Trimite';
 $_['button_guest']          = 'Comandă fără cont';
 $_['button_view']           = 'Vezi';
 $_['button_voucher']        = 'Aplicare Voucher';
