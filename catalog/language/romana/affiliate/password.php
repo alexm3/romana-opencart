@@ -1,17 +1,16 @@
 <?php
-// Heading 
-$_['heading_title']  = 'Schimbă Parola';
+// Titlu 
+$_['heading_title']  = 'Schimbă-ţi parola';
 
 // Text
 $_['text_account']   = 'Cont';
 $_['text_password']  = 'Parola ta';
-$_['text_success']   = 'Success: Parola ta a fost actualizată cu succes.';
+$_['text_success']   = 'Succes: Parola ta a fost actualizată cu succes.';
 
-// Entry
-$_['entry_password'] = 'Parola:';
-$_['entry_confirm']  = 'Confirmă parola:';
+// Intrări
+$_['entry_password'] = 'Noua parolă';
+$_['entry_confirm']  = 'Confirmă noua parolă';
 
-// Error
+// Erori
 $_['error_password'] = 'Parola trebuie să conțină intre 4 si 20 de caractere!';
-$_['error_confirm']  = 'Parola confirmată nu este acceasi. Încercați din nou cu atenție!';
-?>
+$_['error_confirm']  = 'Confirmarea parolei nu se potriveşte!';
