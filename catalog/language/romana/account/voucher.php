@@ -27,6 +27,6 @@ $_['help_amount']      = 'Valoarea trebuie să fie între %s și %s';
 $_['error_to_name']    = 'Numele destinatarului trebuie să conţina între 1 și 64 de caractere!';
 $_['error_from_name']  = 'Numele tău trebuie să conţină între 1 și 64 de caractere!';
 $_['error_email']      = 'Adresa de e-mail nu este validă!';
-$_['error_theme']      = 'Trebuie să selectaţi o temă!';
+$_['error_theme']      = 'Trebuie să selectezi o temă!';
 $_['error_amount']     = 'Valoarea trebuie să fie între %s și %s!';
 $_['error_agree']      = 'Eroare: Trebuie să fi de acord că voucherele cadou nu sunt rambursabile!';

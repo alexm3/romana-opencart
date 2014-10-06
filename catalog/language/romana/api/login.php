@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success'] = 'Success: API session successfully started!';
+$_['text_success'] = 'Succes: Sesiunea API a fost începută!';
 
 // Error
-$_['error_login']  = 'Warning: No match for Username and/or Password.';
+$_['error_login']  = 'Eroare: Nume de utilizator inexistent sau parolă greșită.';
