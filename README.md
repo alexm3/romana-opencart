@@ -3,6 +3,40 @@ RO:
 
 Limba Romana pentru Opencart 2.0 - In curs de traducere
 
+Foldere din catalog deja traduse:
+                      -account
+                      -affiliate
+                      -api
+                      -error
+                      -information
+                      -fisierul romana.php
+                      
+Foldere din catalog traduse partial:
+
+Foldere din catalog de tradus: 
+                      -checkout
+                      -common
+                      -mail
+                      -module
+                      -openbay
+                      -payment
+                      -product
+                      -shipping
+                      -tool
+                      -total
+                      
+Foldere din admin deja traduse:
+
+Foldere din admin traduse partial:
+
+Foldere din admin de tradus:
+                      -toate
+
+
+
+
+
+
 Instalare:
 
 Uploadeaza cele doua foldere din aceasta arhiva in folderul principa Opencart (cel in care sunt si fisierele htaccess.txt si config.php).
