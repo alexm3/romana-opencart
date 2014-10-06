@@ -7,22 +7,22 @@ Foldere din catalog deja traduse:
                       -account
                       -affiliate
                       -api
+                      -common
                       -error
                       -information
+                      -tool
                       -fisierul romana.php
                       
 Foldere din catalog traduse partial:
 
 Foldere din catalog de tradus: 
                       -checkout
-                      -common
                       -mail
                       -module
                       -openbay
                       -payment
                       -product
                       -shipping
-                      -tool
                       -total
                       
 Foldere din admin deja traduse:

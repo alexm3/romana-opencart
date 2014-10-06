@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_items']    = '%s item(s) - %s';
-$_['text_empty']    = 'Your shopping cart is empty!';
-$_['text_cart']     = 'View Cart';
-$_['text_checkout'] = 'Checkout';
-$_['text_profile']  = 'Payment Profile';
+$_['text_items']    = '%s produs(e) - %s';
+$_['text_empty']    = 'Coșul tău este gol!';
+$_['text_cart']     = 'Vezi Coșul';
+$_['text_checkout'] = 'Finalizează comanda';
+$_['text_recurring'] = 'Abonament';
