@@ -14,6 +14,7 @@ Foldere din catalog deja traduse:
                       -module
                       -product
                       -tool
+                      -total
                       -fisierul romana.php
                       
 Foldere din catalog traduse partial:
@@ -22,7 +23,6 @@ Foldere din catalog de tradus:
                       -mail
                       -payment
                       -shipping
-                      -total
                       
 Foldere din admin deja traduse:
 

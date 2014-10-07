@@ -1,3 +1,2 @@
 <?php
-$_['text_low_order_fee'] = 'Comision pentru comenzi mici:';
-?>
+$_['text_low_order_fee'] = 'Comision pentru comandă mică:';
