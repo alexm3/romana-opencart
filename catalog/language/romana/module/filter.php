@@ -1,4 +1,3 @@
 <?php
-// Heading
-$_['heading_title'] = 'Redefiniți Căutarea';
-?>
+// Titlu
+$_['heading_title'] = 'Filtre de căutare';

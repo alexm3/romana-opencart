@@ -1,21 +1,21 @@
 <?php
-// Heading 
+// Titlu 
 $_['heading_title']    = 'Contul tău';
 
 // Text
-$_['text_register']    = 'înregistrare';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Delogare';
-$_['text_forgotten']   = 'Parolă Uitată';
+$_['text_register']    = 'Înregistrează-te';
+$_['text_login']       = 'Autentifică-te';
+$_['text_logout']      = 'Ieșire din cont';
+$_['text_forgotten']   = 'Am uitat parola';
 $_['text_account']     = 'Contul meu';
-$_['text_edit']        = 'Editează cont';
-$_['text_password']    = 'Parolă';
-$_['text_address']     = 'Carți Adrese';
+$_['text_edit']        = 'Editează informațiile contului';
+$_['text_password']    = 'Schimbă parola';
+$_['text_address']     = 'Adresele tale';
 $_['text_wishlist']    = 'Wish List';
 $_['text_order']       = 'Istoric Comenzi';
 $_['text_download']    = 'Descărcări';
+$_['text_reward']      = 'Puncte de recompensă';
 $_['text_return']      = 'Returnări';
-$_['text_transaction'] = 'Tranzacții';
+$_['text_transaction'] = 'Tranzacțiile tale';
 $_['text_newsletter']  = 'Newsletter';
 $_['text_recurring']   = 'Plăți periodice(abonamente)';
-?>

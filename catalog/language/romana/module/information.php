@@ -1,8 +1,7 @@
 <?php
-// Heading 
+// Titlu
 $_['heading_title'] = 'Informaţii';
 
 // Text
 $_['text_contact']  = 'Contactaţi-ne';
-$_['text_sitemap']  = 'Hartă site';
-?>
+$_['text_sitemap']  = 'Harta sitului';

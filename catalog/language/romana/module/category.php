@@ -1,4 +1,3 @@
 <?php
-// Heading
+// Titlu
 $_['heading_title'] = 'Categorii';
-?>
