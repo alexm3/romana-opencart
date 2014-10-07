@@ -12,4 +12,4 @@ $_['text_edit']        = 'Editează informațiile contului';
 $_['text_password']    = 'Schimbă parola';
 $_['text_payment']     = 'Opţiuni de plată';
 $_['text_tracking']    = 'Tracking Afiliaţi';
-$_['text_transaction'] = 'Tranzacțiile tale';
+$_['text_transaction'] = 'Tranzacții';

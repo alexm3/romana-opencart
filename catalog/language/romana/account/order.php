@@ -1,6 +1,6 @@
 <?php
 // Titlu 
-$_['heading_title']         = 'Istoricul comenzilor tale';
+$_['heading_title']         = 'Istoricul comenzilor';
 
 // Text
 $_['text_account']          = 'Cont';

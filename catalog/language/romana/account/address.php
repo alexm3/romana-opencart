@@ -1,6 +1,6 @@
 <?php
 // Titlu 
-$_['heading_title']     = 'Adresele tale';
+$_['heading_title']     = 'Adresele mele';
 
 // Text
 $_['text_account']      = 'Cont';

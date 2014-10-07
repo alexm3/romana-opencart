@@ -1,6 +1,6 @@
 <?php
 // Titlu
-$_['heading_title']                = 'Autentificare cont';
+$_['heading_title']                = 'Autentificare';
 
 // Text
 $_['text_account']                 = 'Cont';

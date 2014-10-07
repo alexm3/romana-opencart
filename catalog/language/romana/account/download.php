@@ -1,11 +1,11 @@
 <?php
 // Titlu
-$_['heading_title']   = 'Fişiere de descărcat';
+$_['heading_title']   = 'Descărcări';
 
 // Text
 $_['text_account']    = 'Cont';
 $_['text_downloads']  = 'Descărcări';
-$_['text_empty']      = 'Nu aveţi comenzi cu fişiere descărcabile!';
+$_['text_empty']      = 'Nu ai comenzi ce conțin descărcări!';
 
 // Coloane
 $_['column_order_id'] = 'ID comandă:';

@@ -1,6 +1,6 @@
 <?php
 // Titlu
-$_['heading_title']  = 'Contactați-ne';
+$_['heading_title']  = 'Contactează-ne';
 
 // Text 
 $_['text_location']  = 'Locația noastră';

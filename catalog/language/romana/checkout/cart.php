@@ -1,6 +1,6 @@
 <?php
 // Titlu
-$_['heading_title']    = 'Coșul de cumpărături';
+$_['heading_title']    = 'Coș de cumpărături';
 
 // Text
 $_['text_success']     = 'Succes: Ai adăugat <a href="%s">%s</a> în <a href="%s">coșul de cumpărături</a>!';
@@ -8,8 +8,8 @@ $_['text_remove']      = 'Succes: Ai modificat coșul de cumpărături!';
 $_['text_login']       = 'Atenție: Trebuie să <a href="%s">te autentifici</a> sau <a href="%s">să înregistrezi un cont nou</a> pentru a vedea prețurile!';
 $_['text_items']       = '%s produs(e) - %s';
 $_['text_points']      = 'Puncte de recompensă: %s';
-$_['text_next']        = 'Ce ai dorii să faci în continuare?';
-$_['text_next_choice'] = 'Aplică un cupon de discount, puncte de recompensă sau calculează costurile livrării';
+$_['text_next']        = '';
+$_['text_next_choice'] = '';
 $_['text_empty']       = 'Coșul tău este gol!';
 $_['text_day']         = 'zi';
 $_['text_week']        = 'săptămână';
@@ -28,7 +28,7 @@ $_['text_payment_until_canceled_description'] = '%s la fiecare %d %s(s) până l
 
 // Coloane
 $_['column_image']    = 'Imagine';
-$_['column_name']     = 'Numele produsului';
+$_['column_name']     = 'Nume produs';
 $_['column_model']    = 'Model';
 $_['column_quantity'] = 'Cantitate';
 $_['column_price']    = 'Preț unitar';

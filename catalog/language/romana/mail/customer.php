@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Îți mulțumim că te-ai înregistrat';
+$_['text_subject']  = '%s - Iti multumim ca te-ai inregistrat';
 $_['text_welcome']  = 'Bine ai venit și îți mulțumim că te-ai înregistrat %s!';
 $_['text_login']    = 'Contul tău a fost creat, și acum te poți autentifica folosind adresa de e-mail și parola de la înregistrare, la următorul URL:';
 $_['text_approval'] = 'Contul tău trebuie aprobat înainte ca tu să te poți autentifica. Odata aprobat te vei putea autentifica folosind adresa de e-mail si parola de la înregistrare, la următorul URL:';
