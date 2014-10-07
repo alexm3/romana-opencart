@@ -3,27 +3,9 @@ RO:
 
 Limba Romana pentru Opencart 2.0 - In curs de traducere
 
-Foldere din catalog deja traduse:
-                      -account
-                      -affiliate
-                      -api
-                      -checkout
-                      -common
-                      -error
-                      -information
-                      -module
-                      -payment
-                      -product
-                      -tool
-                      -total
-                      -fisierul romana.php
-                      
-Foldere din catalog traduse partial:
+Catalog - tradus complet.
 
-Foldere din catalog de tradus: 
-                      -mail
-                      -shipping
-                      
+
 Foldere din admin deja traduse:
 
 Foldere din admin traduse partial:
