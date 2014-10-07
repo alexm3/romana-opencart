@@ -12,6 +12,7 @@ Foldere din catalog deja traduse:
                       -error
                       -information
                       -module
+                      -product
                       -tool
                       -fisierul romana.php
                       
@@ -19,9 +20,7 @@ Foldere din catalog traduse partial:
 
 Foldere din catalog de tradus: 
                       -mail
-                      -openbay
                       -payment
-                      -product
                       -shipping
                       -total
                       
