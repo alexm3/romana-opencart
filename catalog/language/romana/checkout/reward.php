@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Reward Points (Available %s)';
+$_['heading_title'] = 'Aplică punctele tale de recompensă (%s disponibile)';
 
 // Text
-$_['text_success']  = 'Success: Your reward points discount has been applied!';
+$_['text_success']  = 'Succes: Punctele de recompensă au fost aplicate!';
 
 // Entry
-$_['entry_reward']  = 'Points to use (Max %s)';
+$_['entry_reward']  = 'Puncte ce pot fi folosite (Maxim %s)';
 
 // Error
-$_['error_reward']  = 'Warning: Please enter the amount of reward points to use!';
-$_['error_points']  = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum'] = 'Warning: The maximum number of points that can be applied is %s!';
+$_['error_reward']  = 'Atenție: Introdu numărul de puncte de recompensă pe care dorești să le folosești!';
+$_['error_points']  = 'Atenție: Nu ai %s puncte de recompensă!';
+$_['error_maximum'] = 'Atenție: Numărul maxim de puncte ce pot fi folosite este %s!';

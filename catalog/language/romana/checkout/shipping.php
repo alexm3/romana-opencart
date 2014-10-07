@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']        = 'Estimate Shipping &amp; Taxes';
+$_['heading_title']        = 'Estimează taxele si costul livrării';
 
 // Text
-$_['text_success']         = 'Success: Your shipping estimate has been applied!';
-$_['text_shipping']        = 'Enter your destination to get a shipping estimate.';
-$_['text_shipping_method'] = 'Please select the preferred shipping method to use on this order.';
+$_['text_success']         = 'Succes: Metoda de livrare a fost aplicată!';
+$_['text_shipping']        = 'Introdu destinația pentru a estima costul livrării.';
+$_['text_shipping_method'] = 'Selectează o metodă de livrare.';
 
 // Entry
-$_['entry_country']        = 'Country';
-$_['entry_zone']           = 'Region / State';
-$_['entry_postcode']       = 'Post Code';
+$_['entry_country']        = 'Țară';
+$_['entry_zone']           = 'Județ';
+$_['entry_postcode']       = 'Cod poștal';
 
 // Error
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
-$_['error_shipping']       = 'Warning: Shipping method required!';
-$_['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_postcode']       = 'Codul Poștal trebuie să contonă între 2 și 10 caractere!';
+$_['error_country']        = 'Selectează o țară!';
+$_['error_zone']           = 'Selectează un județ!';
+$_['error_shipping']       = 'Eroare: Selectează o metodă de livrare!';
+$_['error_no_shipping']    = 'Nicio metodă de livrare disponibilă. Te rugăm să <a href="%s">ne contactezi</a> pentru asistență!';

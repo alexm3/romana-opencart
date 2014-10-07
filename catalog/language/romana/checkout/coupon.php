@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Coupon Code';
+$_['heading_title'] = 'Aplică un cupon de discount';
 
 // Text
-$_['text_success']  = 'Success: Your coupon discount has been applied!';
+$_['text_success']  = 'Succes: Cuponul de discount a fost aplicat!';
 
 // Entry
-$_['entry_coupon']  = 'Enter your coupon here';
+$_['entry_coupon']  = 'Introdu codul cuponului';
 
 // Error
-$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_empty']   = 'Warning: Please enter a coupon code!';
+$_['error_coupon']  = 'Atentie: Cuponul de discount este ori invalid ori expirat ori a fost deja folosit la maxim!';
+$_['error_empty']   = 'Atentie: Introdu codul cuponului!';

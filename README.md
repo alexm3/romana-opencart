@@ -7,6 +7,7 @@ Foldere din catalog deja traduse:
                       -account
                       -affiliate
                       -api
+                      -checkout
                       -common
                       -error
                       -information
@@ -17,7 +18,6 @@ Foldere din catalog deja traduse:
 Foldere din catalog traduse partial:
 
 Foldere din catalog de tradus: 
-                      -checkout
                       -mail
                       -openbay
                       -payment
