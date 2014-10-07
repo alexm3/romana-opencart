@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_title'] = 'Credit or Debit Card PAYFLOW';
-$_['text_secure_connection'] = 'Creating a secure connection...';
+$_['text_title'] = 'Card de credit/debit (Plata procesată de PayPal)';
+$_['text_secure_connection'] = 'Se creează o conexiune securizată...';
 
-//Errors
-$_['error_connection'] = "Could not connect to PayPal. Please contact the shop's administrator for assistance or choose a different payment method.";
+//Erori
+$_['error_connection'] = "Conectarea la PayPal a eșuat. Contactează administratorul magazinului pentru asistență sau alege o altă metodă de plată.";
 ?>

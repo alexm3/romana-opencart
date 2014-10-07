@@ -12,6 +12,7 @@ Foldere din catalog deja traduse:
                       -error
                       -information
                       -module
+                      -payment
                       -product
                       -tool
                       -total
@@ -21,7 +22,6 @@ Foldere din catalog traduse partial:
 
 Foldere din catalog de tradus: 
                       -mail
-                      -payment
                       -shipping
                       
 Foldere din admin deja traduse:
