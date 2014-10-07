@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_title']       = 'Ridicaţi din reprezentanţă';
-$_['text_description'] = 'Ridicaţi din reprezentanţă';
+$_['text_title']       = 'Ridică din magazin';
+$_['text_description'] = 'Ridică din magazin';
 ?>
