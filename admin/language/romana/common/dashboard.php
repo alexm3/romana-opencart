@@ -5,8 +5,8 @@ $_['heading_title']                = 'Dashboard';
 // Text
 $_['text_welcome']                 = 'Welcome back <strong>%s</strong>!';
 $_['text_new_order']               = 'New Orders';
-$_['text_new_customer']            = 'New Customers';
-$_['text_total_sale']              = 'Total Sales';
+$_['text_new_customer']            = 'Clienti noi';
+$_['text_total_sale']              = 'Total vanzari';
 $_['text_analytics']               = 'Sales Analytics';
 $_['text_online']                  = 'People Online';
 $_['text_activity']                = 'Recent Activity';
